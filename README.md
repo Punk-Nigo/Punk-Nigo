@@ -1,5 +1,8 @@
 
 <div align="center">
+  
+<img src="https://profile-counter.glitch.me/Punk-Nigo/count.svg" />
+ 
 <h2>Hi there, I'm Nigo ⚡ aka 👋</h2>
 
 <p align="center" dir="auto">
@@ -13,14 +16,12 @@
 <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Punk-Nigo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
- #
-
 <p align="center" dir="auto">
 <h3 dir="auto"><a id="user-content-️-my-favorite-tools" class="anchor" aria-hidden="true" href="#️-my-favorite-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji> My Favorite Tools</h3>
   
-  
 <h4 dir="auto"><a id="user-content--programming-and-markup-languages" class="anchor" aria-hidden="true" href="#-programming-and-markup-languages"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> Programming and Markup Languages</h4>
-<p dir="auto">
+<p>
+ 
 <img alt="Java" src="https://camo.githubusercontent.com/83f66d98b22a2bc0ac821cbe2d0196deac6d9289fac720787573f1527d840f1d/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f4a6176612d3030373339362e7376673f6c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" data-canonical-src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&amp;logoColor=white" style="max-width: 100%;">
 
 <img alt="JavaScript" src="https://camo.githubusercontent.com/9a794a64d79bb070a8009cf27eb31c989d09d43a65f95362c88ed6c28218319b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631452e7376673f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&amp;logoColor=black" style="max-width: 100%;">
@@ -35,9 +36,9 @@
 
 <img alt="C#" src="https://camo.githubusercontent.com/c13d1b8966eaf8426913512362717201d5169615236c889db83572358b97f5f7/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f432532332d3638323137412e7376673f6c6f676f3d637332266c6f676f436f6c6f723d7768697465" data-canonical-src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&amp;logoColor=white" style="max-width: 100%;">
 
-
 <img alt="CSS" src="https://camo.githubusercontent.com/53132716f8ed401a79d8c0980b9666b6cd8ce8e7faed1beeb328f821b44850bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3135373242362e7376673f6c6f676f3d63737333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&amp;logoColor=white" style="max-width: 100%;">
 
+ <p>
 <img alt="Google Apps Script" src="https://camo.githubusercontent.com/f87a929f596fa605e00ce08b23212d27dbd7891c917ebcc68b46f54309434e0e/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f476f6f676c65253230417070732532305363726970742d3032353639422e7376673f6c6f676f3d6773266c6f676f436f6c6f723d7768697465" data-canonical-src="https://custom-icon-badges.demolab.com/badge/Google%20Apps%20Script-02569B.svg?logo=gs&amp;logoColor=white" style="max-width: 100%;">
 
 <img alt="HTML" src="https://camo.githubusercontent.com/b4c648ad32f8f9f7c328a4dd59b5df0eb2a4e2623095e31d059f026979129491/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632362e7376673f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&amp;logoColor=white" style="max-width: 100%;">
@@ -49,12 +50,15 @@
 <img alt="SQL" src="https://camo.githubusercontent.com/4ed1fe3ec872f44fe743932bcf4eb6d18ad8568e8d6d19e16d8d96864f6acd33/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f53514c2d3032354538432e7376673f6c6f676f3d6461746162617365266c6f676f436f6c6f723d7768697465" data-canonical-src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&amp;logoColor=white" style="max-width: 100%;">
 
 <img alt="TypeScript" src="https://camo.githubusercontent.com/11c819f21e728e3ba177845a8c9099c63424415008d291a66921165456cf1c49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143432e7376673f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&amp;logoColor=white" style="max-width: 100%;">
-  
+</p>
+ 
 </p>  
 
 <h4 dir="auto"><a id="user-content--frameworks-and-libraries" class="anchor" aria-hidden="true" href="#-frameworks-and-libraries"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">🧰</g-emoji> Frameworks and Libraries</h4>
+ 
 <p dir="auto">
 
+<p>
 <img alt="Arduino" src="https://camo.githubusercontent.com/0d9127be2d88deb6ca6995597f7df5f6658f3307a0390176fe47aef616dfda60/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d41726475696e6f2d3030393739443f6c6f676f3d41726475696e6f266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&amp;logoColor=white" style="max-width: 100%;">
 
 <img alt="Bootstrap" src="https://camo.githubusercontent.com/bc050eb2d16bdd3fc50eef513cf1717ddbafa51a311312ada6b8c49a48632731/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3739353242332e7376673f6c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&amp;logoColor=white" style="max-width: 100%;">
@@ -72,10 +76,10 @@
 <img alt="JUnit" src="https://camo.githubusercontent.com/b276fa6644050edb77367571258806e128098125147962721fd3bf2003a0019a/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f4a556e69742d3235413136322e7376673f6c6f676f3d636865636b2d636972636c65266c6f676f436f6c6f723d7768697465" data-canonical-src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="#"><img alt="Material Design" src="https://camo.githubusercontent.com/259762b81d07649b2aa4c1764d49927ac8591e8295c61e93b0e7b581a050596f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174657269616c25323044657369676e2d3030383143422e7376673f6c6f676f3d6d6174657269616c2d64657369676e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="#"><img alt="Nextcord" src="https://camo.githubusercontent.com/4a39b54258419bfd91eb12f0e4ad19a76ac85ae08d74401328ab50473c7f0fe9/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f4e657874636f72642d3064313632302e7376673f6c6f676f3d6e657874636f7264" data-canonical-src="https://custom-icon-badges.demolab.com/badge/Nextcord-0d1620.svg?logo=nextcord" style="max-width: 100%;">
-
 <a href="#"><img alt="React" src="https://camo.githubusercontent.com/841a3eb02c53b1da682028a5bf3d4032cee4a00b34cdd35f0b1b93e4e24d9316/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332612e7376673f6c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" data-canonical-src="https://img.shields.io/badge/React-20232a.svg?logo=react&amp;logoColor=%2361DAFB" style="max-width: 100%;">
-
 <img alt="Wordpress" src="https://camo.githubusercontent.com/6e58db1589ea4b78a7a30bbbdafe89a19de20d17811d4a26321348dd9c7589d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576f726470726573732d3231373539423f6c6f676f3d776f72647072657373266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&amp;logoColor=white" style="max-width: 100%;">
+ 
+</p>
  
 <h4 dir="auto"><a id="user-content-️-databases-and-cloud-hosting" class="anchor" aria-hidden="true" href="#️-databases-and-cloud-hosting"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="file_cabinet" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5c4.png">🗄️</g-emoji> Databases and Cloud Hosting</h4>
 <p dir="auto">
@@ -116,12 +120,17 @@
  
 </div>
 
+---
+ 
+<p align="center" dir="auto">
+<a href="https://github.com/Punk-Nigo/punk-nigo.github.io">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Punk-Nigo&repo=punk-nigo.github.io&theme=shades-of-purple" style="max-width: 50%;" alt="Nigo's Blog stats" />
+</a>
+</p>
+
 #
 
 <p align="center" dir="auto">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Punk-Nigo&theme=shades-of-purple&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Punk-Nigo&theme=shades-of-purple&layout=compact)](https://github.com/Punk-Nigo/github-readme-stats)
-  
- </p>
+<img src="https://github-readme-stats.vercel.app/api?username=Punk-Nigo&theme=shades-of-purple&show_icons=true" style="max-width: 50%;" alt="Nigo's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punk-Nigo&theme=shades-of-purple&layout=compact" style="max-width: 50%; height: 195px" alt="Nigo's GitHub stats" />
+</p>

@@ -124,13 +124,13 @@
  
 <p align="center" dir="auto">
 <a href="https://github.com/Punk-Nigo/punk-nigo.github.io">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Punk-Nigo&repo=punk-nigo.github.io&theme=shades-of-purple" style="max-width: 50%;" alt="Nigo's Blog stats" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Punk-Nigo&repo=punk-nigo.github.io&theme=shades-of-purple" style="max-width: 300px;" alt="Nigo's Blog stats" />
 </a>
 </p>
 
 #
 
 <p align="center" dir="auto">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Punk-Nigo&theme=shades-of-purple&show_icons=true" style="max-width: 50%;" alt="Nigo's GitHub stats" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Punk-Nigo&theme=shades-of-purple&layout=compact" style="max-width: 50%; height: 195px" alt="Nigo's GitHub stats" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Punk-Nigo&theme=shades-of-purple&show_icons=true" style="max-width: 50%; width: 40%;" alt="Nigo's GitHub stats" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Punk-Nigo&theme=shades-of-purple&layout=compact" style="max-width: 50%; width: 350px; height: 170px;" alt="Nigo's GitHub stats" />
 </p>

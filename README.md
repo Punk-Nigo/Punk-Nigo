@@ -131,6 +131,6 @@
 #
 
 <p align="center" dir="auto">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Punk-Nigo&theme=shades-of-purple&show_icons=true" style="max-width: 50%; width: 40%;" alt="Nigo's GitHub stats" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Punk-Nigo&theme=shades-of-purple&layout=compact" style="max-width: 50%; width: 350px; height: 142px;" alt="Nigo's GitHub stats" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Punk-Nigo&theme=shades-of-purple&show_icons=true" style="max-width: 50%; width: 350px;" alt="Nigo's GitHub stats" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Punk-Nigo&theme=shades-of-purple&layout=compact" style="max-width: 50%; width: 350px; height: 146px;" alt="Nigo's GitHub stats" />
 </p>
